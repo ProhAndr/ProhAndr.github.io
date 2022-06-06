@@ -1,0 +1,1 @@
+facebook.com, APP_ID, DIRECT, 2244391552379827
